@@ -1,5 +1,6 @@
 # Fragman.io
 Oğuzhan ŞİMŞEK (10100802039)
+HALİT USTA – (110101008027)
 
 Sinema filmlerine ait fragmanları , film afişleri aracılığıyla izlenmesini sağlayan mobil uygulamadır.
 
